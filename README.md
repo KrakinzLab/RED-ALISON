@@ -1,11 +1,11 @@
 <div align="center">
 
-![My card name](https://cardivo.vercel.app/api?name=RED-ALISON&description=Newer+Give+Up+😏&image=https://i.postimg.cc/J7Pc2p2t/IMG-20210818-174734-50.jpg?v=4&backgroundColor=#white&github=RED-ALISON&pattern=leaf&colorPattern=white)
+![My card name](https://cardivo.vercel.app/api?name=MR.+BENSON&description=Never+Give+Up+😏&image=https://i.postimg.cc/J7Pc2p2t/IMG-20210818-174734-50.jpg?v=4&backgroundColor=#white&github=RED-ALISON&pattern=leaf&colorPattern=white)
 
 <p align="center">
     <a href="https://github.com/RED-ALISON/RED-ALISON">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=20&width=200&lines=Hello+Im+MR.+BENSON"
+            src="https://readme-typing-svg.herokuapp.com?size=20&width=200&lines=I'm+MR.+BENSON"
             alt="Typing SVG"
         />
     </a>
@@ -34,7 +34,7 @@
 - 🗣️ **I Speak:** [English](https://google.com/search?q=English), [Spanish](https://google.com/search?q=Spanish),[Swahili](https://google.com/search?q=Swahili) and [Hindi](https://google.com/search?q=Hindi) Languages
 - 🎂 **I was born on**: 30th of December that year 😂
 - ⚡ **Fun fact:** I can play most musical instruments and played around 300+ vgames.
-- 🎮 **Game server:** You can also reach out my [vgame server](https://t.me/gascomitgamebot)
+- 🎮 **Game server:** You can also reach out my [vgame server](https://t.me/gascomitgamesbot)
 - 🔨 **Languages and materials:** I use mostly [Python](https://www.python.org) •|• [HTML](https://html.spec.whatwg.org/) •|• [Git](https://git-scm.com/) & •|• [GitHub](https://github.com/) •|•
 [Heroku](https://heroku.com/) •|• [C](https://www.google.com/search?client=firefox-b-d&q=c+language) •|• 
 [C#](https://www.google.com/search?client=firefox-b-d&q=c#+language) •|• etc
